@@ -31,4 +31,8 @@ class Fraccion:
             else:
                 i+=1
 
-        return str(n1)+'/'+str(n2)
+        if n2 ==1:
+            return str(n1)
+        else:
+            return str(n1)+'/'+str(n2)
+
