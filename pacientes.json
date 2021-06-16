@@ -1,0 +1,15 @@
+{
+    "__class__": "Manejador",
+    "pacientes": [
+        {
+            "__class__": "Paciente",
+            "__atributos__": {
+                "nombre": "Santiago",
+                "apellido": "Montion",
+                "telefono": "2646728963",
+                "altura": "178",
+                "peso": "75"
+            }
+        }
+    ]
+}
