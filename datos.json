@@ -1,0 +1,50 @@
+{
+    "__class__": "ManejaProvincia",
+    "Elementos": [
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "San Juan",
+                "capital": "San Juan",
+                "hab": "540000",
+                "part": "19"
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "Chaco",
+                "capital": "Resistencia",
+                "hab": "540000",
+                "part": "9"
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "Chubut",
+                "capital": "Rawson",
+                "hab": "150000",
+                "part": "13"
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "C\u00f3rdoda",
+                "capital": "C\u00f3rdoba",
+                "hab": "750000",
+                "part": "20"
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "Corrientes",
+                "capital": "Corrientes",
+                "hab": "200000",
+                "part": "6"
+            }
+        }
+    ]
+}
